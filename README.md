@@ -4,7 +4,7 @@ A simple, customizable React button component.
 
 ## Installation
 ```bash
-npm install react-awesome-button
+npm install @ahmetekmell/react-awesome-button
 ```
 
 ## Usage

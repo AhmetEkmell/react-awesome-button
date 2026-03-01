@@ -3,13 +3,15 @@
 A simple, customizable React button component.
 
 ## Installation
+
 ```bash
 npm install @ahmetekmell/react-awesome-button
 ```
 
 ## Usage
+
 ```jsx
-import { Button } from 'react-awesome-button'
+import { Button } from '@ahmetekmell/react-awesome-button'
 
 function App() {
   return (
@@ -32,4 +34,3 @@ function App() {
 | size | `small` \| `medium` \| `large` | `medium` | Button size |
 | onClick | `() => void` | — | Click handler |
 | disabled | `boolean` | `false` | Disables the button |
-

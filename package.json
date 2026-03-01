@@ -1,6 +1,6 @@
 {
   "name": "@ahmetekmell/react-awesome-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple reusable React button component",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
